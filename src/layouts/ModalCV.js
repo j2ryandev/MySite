@@ -66,7 +66,7 @@ export default function ModalCV({ resumeTrueFalse }) {
                             <div className="section_title">
                                 <h3>Biography</h3>
                             </div>
-                            <p>I'm a Full-Stack Developer with over 15 years of experience. I'm from Washington D.C.. I code and create web elements for amazing people around the world. I like work with new people. New people are new experiences.</p>
+                            <p>I'm a Full-Stack Developer with over 15 years of experience. I'm from Chandler AZ. I code and create web elements for amazing people around the world. I like work with new people. New people are new experiences.</p>
                             <div className="fn_cs_info_items">
                                 <ul>
                                     <li><p>Name: <span>Joshua Autry</span></p></li>
