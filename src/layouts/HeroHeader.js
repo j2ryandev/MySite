@@ -4,7 +4,7 @@ export default function HeroHeader({ resumeTrueFalse }) {
     useEffect(() => {
         const Typed = require("typed.js");
         new Typed(".is-visible", {
-            strings: ["Ryan James", "Developer", "Freelancer"],
+            strings: ["Joshua Autry", "Developer", "Freelancer"],
             // Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
             stringsElement: null,
             // typing speed
