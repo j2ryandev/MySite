@@ -23,7 +23,7 @@ export default function ModalCV({ resumeTrueFalse }) {
                     <div className="cv__header">
                         <div className="in">
                             <div className="avatar">
-                                <img src="img/header/1.jpg" alt="" />
+                                <img src="img/header/2.jpg" alt="" />
                             </div>
                             <h3><span>Joshua</span> Autry</h3>
                             <ul className="social">
