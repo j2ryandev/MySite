@@ -41,7 +41,7 @@ export default function Contact() {
 				<div className="container">
 					<div className="contact_wrapper">
 						<div className="contact_wrapper_form">
-							<form className="contact_form" onSubmit={(e) => onSubmit(e)} data-email="j2ryandevcore@gmail.com">
+							<form className="contact_form" onSubmit={(e) => onSubmit(e)} data-email="joshuabrintonautry@gmail.com">
 
 								<div
 									className="success"
@@ -149,7 +149,7 @@ export default function Contact() {
 								<h4><a href="tel:+16187174477">(618) 717-4477</a></h4>
 							</div>
 							<div className="address_footer">
-								<a href="mailto:j2ryandevcore@gmail.com">j2ryandevcore@gmail.com</a>
+								<a href="mailto:joshuabrintonautry@gmail.com">joshuabrintonautry@gmail.com</a>
 							</div>
 						</div>
 					</div>
