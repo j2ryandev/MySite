@@ -76,7 +76,6 @@ export default function ModalCV({ resumeTrueFalse }) {
                                     <li><p>Nationality: <span>American</span></p></li>
                                     <li><p>Address: <span>Chandler, AZ</span></p></li>
                                     <li><p>Phone: <span><a href="tel:+14804086788">(480) 408-6788</a></span></p></li>
-                                    <li><p>Skype: <span>Joshua.A</span></p></li>
                                     <li><p>Email: <span><a href="mailto:joshuabrintonautry@gmail.com">joshuabrintonautry@gmail.com</a></span></p></li>
                                 </ul>
                             </div>
