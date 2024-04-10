@@ -35,7 +35,7 @@ export default function HeroHeader({ resumeTrueFalse }) {
                     <div className="content">
                         <div className="left_hero_header">
                             <div className="circle">
-                                <div className="bg_img" style={{ "backgroundImage": "url(img/header/bret.jpg)" }}></div>
+                                <div className="bg_img" style={{ "backgroundImage": "url(img/header/bret1.jpg)" }}></div>
                                 <img src="img/thumb/bret.jpg" alt="bret" />
                                 <div className="circle_holder_blue"><span></span></div>
                                 <div className="circle_holder_orange"><span></span></div>
