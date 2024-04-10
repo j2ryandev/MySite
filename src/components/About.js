@@ -9,7 +9,7 @@ export default function About() {
         <div className="container narrow">
           <div className="about_me">
             <div className="about_me_text">
-              <p>A senior software engineer with 8+ years of hands-on experience in the development of
+              <p>A senior software engineer with 15+ years of hands-on experience in the development of
 complex and dynamic Web applications, using the latest technologies.
               </p>
             </div>
