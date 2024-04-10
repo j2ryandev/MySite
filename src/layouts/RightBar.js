@@ -23,11 +23,11 @@ export default function RightBar({toggleTrueFalse}) {
                     <div className="deebo_email">
                         <div className="email">
                             <p>Email</p>
-                            <a href="mailto:j2ryandevcore@gmail.com">j2ryandevcore@gmail.com</a>
+                            <a href="mailto:joshuabrintonautry@gmail.com">joshuabrintonautry@gmail.com</a>
                         </div>
                         <div className="copyright">
                             <p>Copyright</p>
-                            <a href="#" target="_blank">Developed by Ryan James</a>
+                            <a href="#" target="_blank">Developed by Joshua Autry</a>
                         </div>
                     </div>
                 </div>
