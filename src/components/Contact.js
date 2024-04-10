@@ -142,11 +142,11 @@ export default function Contact() {
 						<div className="contact_wrapper_address">
 							<div className="address_header">
 								<p>Address</p>
-								<h4>Liberty Hill, TX</h4>
+								<h4>Chandler, AZ</h4>
 							</div>
 							<div className="address_middle">
 								<p>Phone</p>
-								<h4><a href="tel:+16187174477">(618) 717-4477</a></h4>
+								<h4><a href="tel:+14804086788">(480) 408-6788</a></h4>
 							</div>
 							<div className="address_footer">
 								<a href="mailto:joshuabrintonautry@gmail.com">joshuabrintonautry@gmail.com</a>
