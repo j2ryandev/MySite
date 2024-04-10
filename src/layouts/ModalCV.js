@@ -25,7 +25,7 @@ export default function ModalCV({ resumeTrueFalse }) {
                             <div className="avatar">
                                 <img src="img/header/1.jpg" alt="" />
                             </div>
-                            <h3><span>Ryan</span> James</h3>
+                            <h3><span>Joshua</span> Autry</h3>
                             <ul className="social">
                                 <li>
                                     <a href="#" target="_blank" title="twitter.com">
@@ -66,18 +66,18 @@ export default function ModalCV({ resumeTrueFalse }) {
                             <div className="section_title">
                                 <h3>Biography</h3>
                             </div>
-                            <p>I'm a Full-Stack Developer with over 8 years of experience. I'm from Washington D.C.. I code and create web elements for amazing people around the world. I like work with new people. New people are new experiences.</p>
+                            <p>I'm a Full-Stack Developer with over 15 years of experience. I'm from Washington D.C.. I code and create web elements for amazing people around the world. I like work with new people. New people are new experiences.</p>
                             <div className="fn_cs_info_items">
                                 <ul>
-                                    <li><p>Name: <span>Ryan James</span></p></li>
-                                    <li><p>Birthday: <span>Jan 13, 1989</span></p></li>
+                                    <li><p>Name: <span>Joshua Autry</span></p></li>
+                                    <li><p>Birthday: <span>Jun 11, 1982</span></p></li>
                                     <li><p>Languages: <span>English</span></p></li>
-                                    <li><p>Age: <span>33 Years</span></p></li>
+                                    <li><p>Age: <span>42 Years</span></p></li>
                                     <li><p>Nationality: <span>American</span></p></li>
-                                    <li><p>Address: <span>Liberty Hill, TX</span></p></li>
-                                    <li><p>Phone: <span><a href="tel:+16187174477">(618) 717-4477 </a></span></p></li>
-                                    <li><p>Skype: <span>Ryan.J</span></p></li>
-                                    <li><p>Email: <span><a href="mailto:j2ryandevcore@gmail.com">j2ryandevcore@gmail.com</a></span></p></li>
+                                    <li><p>Address: <span>Chandler, AZ</span></p></li>
+                                    <li><p>Phone: <span><a href="tel:+14804086788">(480) 408-6788</a></span></p></li>
+                                    <li><p>Skype: <span>Joshua.A</span></p></li>
+                                    <li><p>Email: <span><a href="mailto:joshuabrintonautry@gmail.com">joshuabrintonautry@gmail.com</a></span></p></li>
                                 </ul>
                             </div>
                         </section>
